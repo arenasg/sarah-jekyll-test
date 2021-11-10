@@ -22,11 +22,11 @@ title: Blank Publication Microsite
 description: >- # this means to ignore newlines until "baseurl:"
   A blank website with the LSP/HiTS custom style template 
 logo: "/assets/images/blank-microsite-logo.png"
-hero_background: "/assets/images/hero_background.jpg"
+hero_background: "/assets/images/hero_general-use.jpg"
 
 # Build settings
 remote_theme: labsyspharm/just-the-docs-lsp
-# color_scheme: mcmicro
+# color_scheme: blue
 heading_anchors: true
 
 # Banner links to include
@@ -41,7 +41,7 @@ back_to_top_text: "Back to Top"
 # License Information
 license:
   - description:
-    name: "CC0 1.0 License"
+    name: "MIT License"
     url: "https://github.com/labsyspharm/blank-pub-microsite/blob/main/LICENSE"
 
 # Linked logos
@@ -60,7 +60,7 @@ last_edit_time_format: "%b %e %Y" # format: https://ruby-doc.org/stdlib-2.7.0/li
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/labsyspharm/blank-pub-microsite" # the github URL for your repo
+gh_edit_repository: "https://github.com/labsyspharm/sarah-jekyll-test" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
